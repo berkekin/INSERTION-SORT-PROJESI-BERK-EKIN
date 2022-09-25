@@ -1,5 +1,5 @@
 Merhaba. [Patika.dev](https://www.patika.dev/tr)'in Veri Yapıları ve Algoritmalar dersinin proje 1 ödevini tamamladım.
-
+Projeyi farklı kaynaklardan yardım alarak yazdım eksik mevcut ise lütfen bildirin teşekkürler
 ## [22,27,16,2,18,6] --> Insertion Sort
 
 ### 1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
